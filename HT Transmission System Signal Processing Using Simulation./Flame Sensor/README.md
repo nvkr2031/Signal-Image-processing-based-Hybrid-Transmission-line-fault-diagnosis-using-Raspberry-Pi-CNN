@@ -15,25 +15,42 @@ Key Calculations:
 Temperature Conversion:
 
 Equation: T (Celsius) = (Vsensor - Voffset) / Sensitivity + Toffset
+
 Where:
+
 T: Temperature in Celsius
+
 Vsensor: Voltage output from the temperature sensor
+
 Voffset: Optional offset voltage
+
 Sensitivity: Sensor's sensitivity (typically 10 mV/°C for LM35)
+
 Toffset: Optional temperature offset
 
 ADC Conversion:
 
 Equation: Digital Value = (Analog Voltage - ADC Offset) / ADC Resolution
+
 Where:
+
 Analog Voltage: Voltage from the sensor
+
 ADC Offset: Offset voltage of the ADC (if any)
+
 ADC Resolution: Number of bits in the ADC (e.g., 10-bit, 12-bit)
 
 Voltage Regulation:
 
 Equation: Vout = Vin * (R2 / (R1 + R2))
+
 Where:
+
 Vout: Regulated output voltage
+
 Vin: Input voltage
+
 R1, R2: Resistances in the voltage divider circuit
+
+![Flame](https://github.com/user-attachments/assets/28c5c0b0-383d-4679-ac65-e27d58b918c1)
+
