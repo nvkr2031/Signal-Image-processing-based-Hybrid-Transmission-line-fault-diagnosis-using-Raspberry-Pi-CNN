@@ -4,4 +4,4 @@ This section explores the use of Convolutional Neural Networks (CNNs) – ResNet
 
 Comparison of AUC values of ResNet50, EfficientNet & VGG16 : 
 
-![image](https://github.com/user-attachments/assets/338f47cb-af15-4d65-9995-8300dcf01cbb)
+![c 1](https://github.com/user-attachments/assets/7288e0b5-38ed-4c53-aab1-2b8ccf565395)
