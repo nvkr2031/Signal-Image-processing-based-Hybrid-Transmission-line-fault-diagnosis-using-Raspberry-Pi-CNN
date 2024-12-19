@@ -18,7 +18,7 @@ INTERPRET DIGITAL DATA : The ADC conversion process enables the microprocessor t
 
 KEY CALCULATIONS:
 
-TEMPERATURE CONVERSION :
+I. TEMPERATURE CONVERSION :
 
 Equation : T (Celsius) = (Vsensor - Voffset) / Sensitivity + Toffset
 
@@ -34,7 +34,7 @@ Sensitivity: Sensor's sensitivity (typically 10 mV/°C for LM35)
 
 Toffset: Optional temperature offset
 
-ADC CONVERSION :
+II. ADC CONVERSION :
 
 Equation: Digital Value = (Analog Voltage - ADC Offset) / ADC Resolution
 
@@ -46,7 +46,7 @@ ADC Offset: Offset voltage of the ADC (if any)
 
 ADC Resolution: Number of bits in the ADC (e.g., 10-bit, 12-bit)
 
-VOLTAGE REGULATION :
+III. VOLTAGE REGULATION :
 
 Equation: Vout = Vin * (R2 / (R1 + R2))
 
