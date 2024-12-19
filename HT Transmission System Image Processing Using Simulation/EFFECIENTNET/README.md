@@ -24,3 +24,20 @@ FLOW CHART SHOWING THE CODING PROCESS FOR EFFICIENTNET
 
 ![EFFICIENTNET](https://github.com/user-attachments/assets/74188bc2-8d27-4d96-b5be-3e2db16e1717)
 
+After Compilation : 
+
+![eff c](https://github.com/user-attachments/assets/0a87c7d8-95ee-411f-9b76-305102b2fd9d)
+
+PERFORMANCE ANALYSIS : 
+
+ACCURACY AND LOSS: The EfficientNet model demonstrates promising trends in both accuracy and loss metrics, as shown in Fig. 3.6 and Fig. 3.7. Both training and validation accuracies consistently improve over epochs, while the model's loss steadily decreases.
+
+ROC CURVE ANALYSIS: The multi-class ROC curve (Fig. 3.8) underscores the model's adeptness in distinguishing between different fault types. High AUC values for each fault type indicate strong classification performance:
+
+BROKEN INSULATOR: AUC = 0.93
+
+FLASHOVER DAMAGED INSULATOR: AUC = 0.92
+
+GOOD INSULATOR: AUC = 0.92
+
+These results affirm the EfficientNet model's efficacy in fault detection, advocating for its deployment in real-world applications.
