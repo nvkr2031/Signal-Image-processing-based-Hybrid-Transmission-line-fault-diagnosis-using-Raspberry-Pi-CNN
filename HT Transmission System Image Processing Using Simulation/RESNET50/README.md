@@ -23,6 +23,8 @@ FLOW CHART SHOWING THE CODING PROCESS FOR RESNET50
 
 ![Flow chart showing the coding process for Resnet50](https://github.com/user-attachments/assets/12c04ebb-65c2-4e78-ba7a-6e7b9061b887)
 
+After compilation : 
+
 ![resnet50 c](https://github.com/user-attachments/assets/75a5cad3-d107-4b26-a298-9cfc82913a3c)
 
 PERFORMANCE ANALYSIS : 
