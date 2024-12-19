@@ -9,6 +9,7 @@ INTEGRATE MICROPROCESSOR : Include a Raspberry Pi model in the Proteus simulatio
 ESTABLISH ADC CONNECTION : Connect the LM35's output to the Analog-to-Digital Converter (ADC) input pin of the Raspberry Pi, enabling the transmission of analog data for further processing.
 
 PROGRAM THE RASPBERRY PI : 
+
 1.Write Python code to read the analog voltage signal received from the LM35 temperature sensor, interfaced with the Raspberry Pi's ADC pin.
 
 2.Utilize the Raspberry Pi's built-in ADC functionality to convert the analog voltage signal into a corresponding digital value.
