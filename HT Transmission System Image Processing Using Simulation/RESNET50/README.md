@@ -19,4 +19,6 @@ FLASHOVER INSULATOR: Detects images of insulators experiencing electrical discha
 
 GOOD INSULATOR: Classifies images of insulators in normal, healthy condition.
 
+FLOW CHART SHOWING THE CODING PROCESS FOR RESNET50
+
 ![Flow chart showing the coding process for Resnet50](https://github.com/user-attachments/assets/12c04ebb-65c2-4e78-ba7a-6e7b9061b887)
