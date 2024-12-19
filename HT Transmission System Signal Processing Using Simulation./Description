@@ -1,0 +1,2 @@
+This section describes the integration of temperature and flame sensors with a Raspberry Pi for signal processing. The Raspberry Pi acts as the central processing unit, receiving signals from the sensors. It performs signal processing tasks such as filtering, amplification, and analog-to-digital conversion. The LM35 temperature sensor provides analog temperature readings, which are then converted to digital values by the Raspberry Pi's ADC. The system is simulated in Proteus software, allowing for testing and debugging before real-world implementation.
+
